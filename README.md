@@ -13,7 +13,9 @@
 <br>x = k * ln(2) + ln(2) * (ln(1+f)/ ln(2))
 <br>x = k * ln(2) + ln(2) * (log(1+f))
 <br>x = k * ln(2) + r
-<br>e^x = e^(k * ln(2)) *  e^r
+<br>e^x = e^(k * ln(2)) * e^r
+<br>e^x = (e^(ln(2)))^k * e^r
+<br>e^x = 2^k *  e^r
 <br>接下來對r用逼近函數估算e^r,
 <br>再把e^r跟k合併即可, k為e^x的階碼
 
