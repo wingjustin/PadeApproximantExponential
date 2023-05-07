@@ -17,8 +17,9 @@
 <br>接下來對r用逼近函數估算e^r,
 <br>再把e^r跟k合併即可, k為e^x的階碼
 
-<div>reference : </div>
+<div>References : </div>
 <ul>
 <li>FdLibM C math library .\fdlibm-5.2\e_exp.c : https://gnuwin32.sourceforge.net/packages/fdlibm.htm</li>
+<li>https://zhuanlan.zhihu.com/p/541466411</li>
 <li>https://blog.csdn.net/m0_66201040/article/details/125866121</li>
 </ul>
